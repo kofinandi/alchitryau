@@ -7,3 +7,4 @@ Enjoy!
 Available modules:
 	- 7 segment display driver with 4 hex digits
 	- Binary to decimal converter
+	- μs counter (with 100 MHz clock)
